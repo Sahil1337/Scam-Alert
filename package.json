@@ -1,0 +1,19 @@
+{
+  "name": "Scam-Alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  }, 
+  "author": "ItzCutePichu#0001",
+  "license": "GNU",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.12"
+  }
+}
