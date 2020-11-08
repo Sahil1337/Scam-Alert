@@ -24,5 +24,5 @@ message.channel.send(embed)
 }
 module.exports.help = {
     name: "remove",
-    aliases: ['useradd']
+    aliases: ['user-remove']
 }
