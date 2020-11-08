@@ -2,7 +2,7 @@
 
 ## 📝 Starting Up
 1. Run `npm install` to install all packages
-2. Edit `config.js` and fill up all the things.
+2. Edit `config.js` & `database.js`files and fill up all the things.
 3. Run it by `npm start`
 
 ## 💨 Run the projects
