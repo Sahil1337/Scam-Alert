@@ -8,7 +8,7 @@
   },
   "engines": {
     "node": "12.x"
-  }, 
+  },
   "author": "ItzCutePichu#0001",
   "license": "GNU",
   "dependencies": {
